@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+  <Ad id="postroll-1">
+    <InLine>
+      <AdSystem>static-sample</AdSystem>
+      <AdTitle>Postroll sample</AdTitle>
+      <Impression><![CDATA[]]></Impression>
+      <Creatives>
+        <Creative sequence="1" id="1">
+          <Linear>
+            <Duration>00:00:08</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                <![CDATA[https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
