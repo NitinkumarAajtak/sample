@@ -2,7 +2,7 @@
   <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
     <vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
       <vmap:AdTagURI templateType="vast3">
-        <![CDATA[ https://abhishek-singh-rajawat.github.io/api2/gampad/preroll_vast.xml ]]>
+        <![CDATA[ https://raw.githubusercontent.com/NitinkumarAajtak/sample/refs/heads/main/gampad/preroll_vast.xml ]]>
       </vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
@@ -10,7 +10,7 @@
   <vmap:AdBreak timeOffset="00:00:15.000" breakType="linear" breakId="midroll-1">
     <vmap:AdSource id="midroll-1-ad-1" allowMultipleAds="false" followRedirects="true">
       <vmap:AdTagURI templateType="vast3">
-        <![CDATA[ https://abhishek-singh-rajawat.github.io/api2/gampad/midroll_vast.xml ]]>
+        <![CDATA[ https://raw.githubusercontent.com/NitinkumarAajtak/sample/refs/heads/main/gampad/midroll_vast.xml ]]>
       </vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
@@ -18,7 +18,7 @@
   <vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
     <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
       <vmap:AdTagURI templateType="vast3">
-        <![CDATA[ https://abhishek-singh-rajawat.github.io/api2/gampad/postroll_vast.xml ]]>
+        <![CDATA[ https://raw.githubusercontent.com/NitinkumarAajtak/sample/refs/heads/main/gampad/postroll_vast.xml ]]>
       </vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
